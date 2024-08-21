@@ -1,0 +1,10 @@
+{
+    "death.attack.gbg.standard": "%1$s was riddled with holes by %2$s",
+    "death.attack.gbg.laser": "%1$s was incinerated by %2$s",
+    "death.attack.gbg.flame": "%1$s was torched by %2$s",
+    "death.attack.gbg.ray": "%1$s was deleted by %2$s",
+    "death.attack.gbg.standard.item": "%1$s was riddled with holes by %2$s using %3$s ",
+    "death.attack.gbg.laser.item": "%1$s was incinerated by %2$s using %3$s",
+    "death.attack.gbg.flame.item": "%1$s was torched by %2$s using %3$s",
+    "death.attack.gbg.ray.item": "%1$s was deleted by %2$s using %3$s"
+}
