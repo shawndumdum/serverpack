@@ -33,5 +33,7 @@
   "block.minecraft.spruce_trapdoor": "Iron Bar Trapdoor",
 
   "item.minecraft.spider_eye": "Eyeball",
-  "item.minecraft.fermented_spider_eye": "Fermented Eyeball"
+  "item.minecraft.fermented_spider_eye": "Fermented Eyeball",
+
+  "block.minecraft.magma_block": "Coal Block"
 }
