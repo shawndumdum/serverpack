@@ -430,5 +430,10 @@
 
   "block.minecraft.brown_glazed_terracotta": "Brown Terracotta",
   "block.minecraft.brown_concrete": "Brown Terracotta",
-  "block.minecraft.brown_concrete_powder": "Brown Terracotta"
+  "block.minecraft.brown_concrete_powder": "Brown Terracotta",
+
+  "entity.minecraft.pillager": "Raider",
+  "entity.minecraft.vindicator": "Psycho Raider",
+  "entity.minecraft.evoker": "Summoner Raider",
+  "entity.minecraft.illusioner": "Raider Boss"
 }
