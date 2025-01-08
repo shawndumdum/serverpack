@@ -25,6 +25,10 @@
 
   "block.minecraft.magma_block": "Coal Block",
 
+  "block.minecraft.furnace": "Oven",
+  "block.minecraft.smoker": "Grill",
+  "block.minecraft.blast_furnace": "Range",
+  "block.minecraft.dropper": "Drawer",
   "block.minecraft.stonecutter": "Saw",
 
   "block.minecraft.acacia_log": "Wood Log",
@@ -142,7 +146,7 @@
   "item.minecraft.dark_oak_chest_boat": "Wooden Boat with Chest",
   "item.minecraft.mangrove_chest_boat": "Wooden Boat with Chest",
   "item.minecraft.cherry_chest_boat": "Wooden Boat with Chest",
-  "item.minecraft.pake_oak_chest_boat": "Wooden Boat with Chest",
+  "item.minecraft.pale_oak_chest_boat": "Wooden Boat with Chest",
   "item.minecraft.bamboo_chest_raft": "Wooden Raft with Chest",
 
   "item.minecraft.clay_ball": "Rock",
@@ -302,6 +306,16 @@
   "block.minecraft.prismarine": "Smooth Stone",
   "block.minecraft.clay": "Smooth Stone",
   "block.minecraft.soul_sand": "Smooth Stone",
+  
+  "block.minecraft.mangrove_stairs": "Smooth Stone Stairs",
+  "block.minecraft.waxed_exposed_cut_copper_stairs": "Smooth Stone Stairs",
+  "block.minecraft.waxed_cut_copper_stairs": "Smooth Stone Stairs",
+  "block.minecraft.waxed_oxidized_cut_copper_stairs": "Smooth Stone Stairs",
+  "block.minecraft.red_sandstone_stairs": "Smooth Stone Stairs",
+  "block.minecraft.cobbled_deepslate_stairs": "Smooth Stone Stairs",
+  "block.minecraft.granite_stairs": "Smooth Stone Stairs",
+  "block.minecraft.waxed_weathered_cut_copper_stairs": "Smooth Stone Stairs",
+  "block.minecraft.prismarine_stairs": "Smooth Stone Stairs",
 
   "block.minecraft.mangrove_slab": "Smooth Stone Slab",
   "block.minecraft.waxed_exposed_cut_copper_slab": "Smooth Stone Slab",
@@ -312,11 +326,22 @@
   "block.minecraft.granite_slab": "Smooth Stone Slab",
   "block.minecraft.waxed_weathered_cut_copper_slab": "Smooth Stone Slab",
 
+  "block.minecraft.red_sandstone_wall": "Smooth Stone Wall",
+  "block.minecraft.cobbled_deepslate_wall": "Smooth Stone Wall",
+  "block.minecraft.granite_wall": "Smooth Stone Wall",
+  "block.minecraft.prismarine_wall": "Smooth Stone Wall",
+  
+  "block.minecraft.mangrove_fence": "Smooth Stone Fence",
+
+  "block.minecraft.mangrove_fence_gate": "Smooth Stone Fence Gate",
+
   "block.minecraft.waxed_weathered_copper_trapdoor": "Smooth Stone Trapdoor",
   "block.minecraft.waxed_copper_trapdoor": "Smooth Stone Trapdoor",
   "block.minecraft.waxed_exposed_copper_trapdoor": "Smooth Stone Trapdoor",
   "block.minecraft.waxed_oxidized_copper_trapdoor": "Smooth Stone Trapdoor",
   "block.minecraft.crimson_trapdoor": "Smooth Stone Trapdoor",
+
+  "block.minecraft.mangrove_button": "Smooth Stone Button",
 
   "block.minecraft.cracked_nether_bricks": "Ribbed Stone",
   "block.minecraft.bamboo_planks": "Ribbed Stone",
@@ -324,6 +349,21 @@
   "block.minecraft.bamboo_mosaic": "Ribbed Stone",
   "block.minecraft.polished_tuff": "Ribbed Stone",
   "block.minecraft.tuff_bricks": "Ribbed Stone",
+
+  "block.minecraft.bamboo_stairs": "Ribbed Stone Stairs",
+  "block.minecraft.bamboo_mosaic_stairs": "Ribbed Stone Stairs",
+  "block.minecraft.polished_tuff_stairs": "Ribbed Stone Stairs",
+  "block.minecraft.tuff_brick_stairs": "Ribbed Stone Stairs",
+
+  "block.minecraft.bamboo_slab": "Ribbed Stone Slab",
+  "block.minecraft.bamboo_mosaic_slab": "Ribbed Stone Slab",
+  "block.minecraft.polished_tuff_slab": "Ribbed Stone Slab",
+  "block.minecraft.tuff_brick_slab": "Ribbed Stone Slab",
+  
+  "block.minecraft.bamboo_fence": "Ribbed Stone Fence",
+  "block.minecraft.bamboo_fence_gate": "Ribbed Stone Fence Gate",
+
+  "block.minecraft.bamboo_button": "Ribbed Stone Button",
 
   "block.minecraft.mushroom_stem": "Combed Stone",
   "block.minecraft.dead_fire_coral_block": "Combed Stone",
@@ -350,6 +390,26 @@
   "block.minecraft.waxed_exposed_copper_grate": "Metal Frame",
   "block.minecraft.waxed_weathered_copper_grate": "Metal Frame",
   "block.minecraft.waxed_oxidized_copper_grate": "Metal Frame",
+
+  "block.minecraft.warped_stairs": "Metal Stairs",
+  "block.minecraft.cherry_stairs": "Metal Stairs",
+  "block.minecraft.diorite_stairs": "Metal Stairs",
+  "block.minecraft.polished_diorite_stairs": "Metal Stairs",
+
+  "block.minecraft.warped_slab": "Metal Slab",
+  "block.minecraft.cherry_slab": "Metal Slab",
+  "block.minecraft.diorite_slab": "Metal Slab",
+  "block.minecraft.polished_diorite_slab": "Metal Slab",
+
+  "block.minecraft.warped_fence": "Metal Fence",
+  "block.minecraft.cherry_fence": "Metal Fence",
+
+  "block.minecraft.diorite_wall": "Metal Wall",
+  
+  "block.minecraft.warped_fence_gate": "Metal Fence Gate",
+  "block.minecraft.cherry_fence_gate": "Metal Fence Gate",
+
+  "block.minecraft.cherry_button": "Metal Button",
 
   "block.minecraft.iron_door": "Metal Door",
   "block.minecraft.acacia_door": "Metal Door",
