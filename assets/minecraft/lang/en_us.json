@@ -359,6 +359,9 @@
   "block.minecraft.bamboo_mosaic_slab": "Ribbed Stone Slab",
   "block.minecraft.polished_tuff_slab": "Ribbed Stone Slab",
   "block.minecraft.tuff_brick_slab": "Ribbed Stone Slab",
+
+  "block.minecraft.tuff_brick_wall": "Ribbed Stone Wall",
+  "block.minecraft.polished_tuff_wall": "Ribbed Stone Wall",
   
   "block.minecraft.bamboo_fence": "Ribbed Stone Fence",
   "block.minecraft.bamboo_fence_gate": "Ribbed Stone Fence Gate",
@@ -386,6 +389,10 @@
   "block.minecraft.netherite_block": "Metal Block",
   "block.minecraft.iron_block": "Metal Block",
 
+  "block.minecraft.copper_grate": "Metal Frame",
+  "block.minecraft.exposed_copper_grate": "Metal Frame",
+  "block.minecraft.weathered_copper_grate": "Metal Frame",
+  "block.minecraft.oxidized_copper_grate": "Metal Frame",
   "block.minecraft.waxed_copper_grate": "Metal Frame",
   "block.minecraft.waxed_exposed_copper_grate": "Metal Frame",
   "block.minecraft.waxed_weathered_copper_grate": "Metal Frame",
@@ -410,6 +417,7 @@
   "block.minecraft.cherry_fence_gate": "Metal Fence Gate",
 
   "block.minecraft.cherry_button": "Metal Button",
+  "block.minecraft.warped_button": "Metal Button",
 
   "block.minecraft.iron_door": "Metal Door",
   "block.minecraft.acacia_door": "Metal Door",
